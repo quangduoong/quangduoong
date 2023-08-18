@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @quangduoong
 
-An student at University of Information Technology - Vietnam National University (UIT). My dream goal is to be a Backend Developer.
+I was born in 2002. At the moment, I am a student at University of Information Technology - Vietnam National University (UIT). My dream goal is to be a Backend Developer.
 
 I am open to work.
 
