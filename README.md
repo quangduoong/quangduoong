@@ -40,7 +40,7 @@ ___
 <img src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" width = '60' alt="Spring">
 </p>
 
-___
+<!-- ___
 
 ## My projects
 
@@ -50,5 +50,5 @@ ___
 [cqrs-ddd]: https://github-readme-stats.vercel.app/api/pin/?username=quangduoong&repo=CQRS-DDD&cache_seconds=86400&theme=swift
 [.net-microservices]: https://github-readme-stats.vercel.app/api/pin/?username=quangduoong&repo=ASP.NET-MicroServices&cache_seconds=86400&theme=swift
 [spring-microservices]: https://github-readme-stats.vercel.app/api/pin/?username=quangduoong&repo=SpringBoot-MicroServices&cache_seconds=86400&theme=swift
-[uzo]: https://github-readme-stats.vercel.app/api/pin/?username=quangduoong&repo=uzo&cache_seconds=86400&theme=swift
+[uzo]: https://github-readme-stats.vercel.app/api/pin/?username=quangduoong&repo=uzo&cache_seconds=86400&theme=swift -->
 
