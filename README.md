@@ -30,6 +30,7 @@ ___
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width = '60' alt="Docker">
 <img src="https://snapio.com.au/media/onlpwbv0/aws.png" width = '60' alt="AWS">
+<img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width = '60' alt="AWS">
 </p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quangduoong&exclude_repo=Client-Segmentation,DataMining-Supermarket,HomeLand&theme=swift)
